@@ -1,11 +1,17 @@
-body{
-    background-color: #FAF0D7;
-    }
-    hr{
-      border-style: none;
-      border-top-style: dotted;
-      border-color: #8CC0DE;
-      border-width: 6px;
-      width: 5%;
-    }
+body {
+  background-color: #faf0d7;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 6px;
+  width: 5%;
+}
+h1{
+    color: #8CC0DE;
+}
+h3{
+    color: #8CC0DE;
+}
 
